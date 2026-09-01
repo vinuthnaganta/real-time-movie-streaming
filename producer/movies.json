@@ -1,0 +1,2102 @@
+[
+    {
+        "IMDB Id": "tt0111161",
+        "Title": "The Shawshank Redemption",
+        "Genre": "Drama",
+        "Year": "1994",
+        "Rating": "9.3"
+    },
+    {
+        "IMDB Id": "tt0068646",
+        "Title": "The Godfather",
+        "Genre": "Crime, Drama",
+        "Year": "1972",
+        "Rating": "9.2"
+    },
+    {
+        "IMDB Id": "tt0468569",
+        "Title": "The Dark Knight",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2008",
+        "Rating": "9.1"
+    },
+    {
+        "IMDB Id": "tt0110912",
+        "Title": "Pulp Fiction",
+        "Genre": "Crime, Drama",
+        "Year": "1994",
+        "Rating": "8.8"
+    },
+    {
+        "IMDB Id": "tt0108052",
+        "Title": "Schindler's List",
+        "Genre": "Biography, Drama, History",
+        "Year": "1994",
+        "Rating": "9.0"
+    },
+    {
+        "IMDB Id": "tt0167260",
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Genre": "Adventure, Drama, Fantasy",
+        "Year": "2003",
+        "Rating": "9.0"
+    },
+    {
+        "IMDB Id": "tt0109830",
+        "Title": "Forrest Gump",
+        "Genre": "Drama, Romance",
+        "Year": "1994",
+        "Rating": "8.8"
+    },
+    {
+        "IMDB Id": "tt0137523",
+        "Title": "Fight Club",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "1999",
+        "Rating": "8.8"
+    },
+    {
+        "IMDB Id": "tt1375666",
+        "Title": "Inception",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2010",
+        "Rating": "8.8"
+    },
+    {
+        "IMDB Id": "tt0133093",
+        "Title": "The Matrix",
+        "Genre": "Action, Sci-Fi",
+        "Year": "1999",
+        "Rating": "8.7"
+    },
+    {
+        "IMDB Id": "tt0099685",
+        "Title": "GoodFellas",
+        "Genre": "Biography, Crime, Drama",
+        "Year": "1990",
+        "Rating": "8.7"
+    },
+    {
+        "IMDB Id": "tt0047478",
+        "Title": "Seven Samurai",
+        "Genre": "Action, Drama",
+        "Year": "1954",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0102926",
+        "Title": "The Silence of the Lambs",
+        "Genre": "Crime, Drama, Horror",
+        "Year": "1991",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0120815",
+        "Title": "Saving Private Ryan",
+        "Genre": "Drama, War",
+        "Year": "1998",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0816692",
+        "Title": "Interstellar",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Year": "2014",
+        "Rating": "8.7"
+    },
+    {
+        "IMDB Id": "tt0317248",
+        "Title": "City of God",
+        "Genre": "Crime, Drama",
+        "Year": "2004",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0245429",
+        "Title": "Spirited Away",
+        "Genre": "Animation, Adventure, Family",
+        "Year": "2003",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0118799",
+        "Title": "Life Is Beautiful",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "1997",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0120689",
+        "Title": "The Green Mile",
+        "Genre": "Crime, Drama, Fantasy",
+        "Year": "1999",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0076759",
+        "Title": "Star Wars: Episode IV - A New Hope",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "1977",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0103064",
+        "Title": "Terminator 2: Judgment Day",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "1991",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt0088763",
+        "Title": "Back to the Future",
+        "Genre": "Adventure, Comedy, Sci-Fi",
+        "Year": "1985",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0054215",
+        "Title": "Psycho",
+        "Genre": "Drama, Horror, Mystery",
+        "Year": "1960",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0253474",
+        "Title": "The Pianist",
+        "Genre": "Biography, Drama, Music",
+        "Year": "2003",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt6751668",
+        "Title": "Parasite",
+        "Genre": "Drama, Thriller",
+        "Year": "2019",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0172495",
+        "Title": "Gladiator",
+        "Genre": "Action, Adventure, Drama",
+        "Year": "2000",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0110357",
+        "Title": "The Lion King",
+        "Genre": "Animation, Adventure, Drama",
+        "Year": "1994",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0110413",
+        "Title": "L\u00e9on: The Professional",
+        "Genre": "Action, Crime, Drama",
+        "Year": "1994",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0120586",
+        "Title": "American History X",
+        "Genre": "Crime, Drama",
+        "Year": "1998",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0407887",
+        "Title": "The Departed",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "2006",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt2582802",
+        "Title": "Whiplash",
+        "Genre": "Drama, Music",
+        "Year": "2014",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0482571",
+        "Title": "The Prestige",
+        "Genre": "Drama, Mystery, Sci-Fi",
+        "Year": "2006",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0114814",
+        "Title": "The Usual Suspects",
+        "Genre": "Crime, Drama, Mystery",
+        "Year": "1995",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0034583",
+        "Title": "Casablanca",
+        "Genre": "Drama, Romance, War",
+        "Year": "1943",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0056058",
+        "Title": "Harakiri",
+        "Genre": "Drama, Mystery",
+        "Year": "1964",
+        "Rating": "8.6"
+    },
+    {
+        "IMDB Id": "tt6172126",
+        "Title": "Intouchables",
+        "Genre": "Short, Drama",
+        "Year": "2016",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0027977",
+        "Title": "Modern Times",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "1936",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0064116",
+        "Title": "Once Upon a Time in the West",
+        "Genre": "Drama, Western",
+        "Year": "1969",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0095765",
+        "Title": "Cinema Paradiso",
+        "Genre": "Drama, Romance",
+        "Year": "1990",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0047396",
+        "Title": "Rear Window",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "1954",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0078748",
+        "Title": "Alien",
+        "Genre": "Horror, Sci-Fi",
+        "Year": "1979",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0078788",
+        "Title": "Apocalypse Now",
+        "Genre": "Drama, Mystery, War",
+        "Year": "1979",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0209144",
+        "Title": "Memento",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "2001",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt1853728",
+        "Title": "Django Unchained",
+        "Genre": "Drama, Western",
+        "Year": "2012",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt0082971",
+        "Title": "Raiders of the Lost Ark",
+        "Genre": "Action, Adventure",
+        "Year": "1981",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt14055868",
+        "Title": "WALL-E: Treasures and Trinkets",
+        "Genre": "Animation, Short",
+        "Year": "2008",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0405094",
+        "Title": "The Lives of Others",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "2006",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0043014",
+        "Title": "Sunset Boulevard",
+        "Genre": "Drama, Film-Noir",
+        "Year": "1950",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0081505",
+        "Title": "The Shining",
+        "Genre": "Drama, Horror",
+        "Year": "1980",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0050825",
+        "Title": "Paths of Glory",
+        "Genre": "Drama, War",
+        "Year": "1957",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt4154756",
+        "Title": "Avengers: Infinity War",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2018",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0051201",
+        "Title": "Witness for the Prosecution",
+        "Genre": "Crime, Drama, Mystery",
+        "Year": "1957",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt4633694",
+        "Title": "Spider-Man: Into the Spider-Verse",
+        "Genre": "Animation, Action, Adventure",
+        "Year": "2018",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0090605",
+        "Title": "Aliens",
+        "Genre": "Action, Adventure, Horror",
+        "Year": "1986",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt8207486",
+        "Title": "Dr. Strangelove",
+        "Genre": "Short, Comedy, Crime",
+        "Year": "2012",
+        "Rating": "N/A"
+    },
+    {
+        "IMDB Id": "tt0169547",
+        "Title": "American Beauty",
+        "Genre": "Drama",
+        "Year": "1999",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt1345836",
+        "Title": "The Dark Knight Rises",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2012",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt7286456",
+        "Title": "Joker",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "2019",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0086879",
+        "Title": "Amadeus",
+        "Genre": "Biography, Drama, Music",
+        "Year": "1984",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0114709",
+        "Title": "Toy Story",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "1995",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt2380307",
+        "Title": "Coco",
+        "Genre": "Animation, Adventure, Drama",
+        "Year": "2017",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0112573",
+        "Title": "Braveheart",
+        "Genre": "Biography, Drama, War",
+        "Year": "1995",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0361748",
+        "Title": "Inglourious Basterds",
+        "Genre": "Adventure, Drama, War",
+        "Year": "2009",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0119698",
+        "Title": "Princess Mononoke",
+        "Genre": "Animation, Adventure, Fantasy",
+        "Year": "1997",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt1745960",
+        "Title": "Top Gun: Maverick",
+        "Genre": "Action, Drama",
+        "Year": "2022",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt4154796",
+        "Title": "Avengers: Endgame",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2019",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0087843",
+        "Title": "Once Upon a Time in America",
+        "Genre": "Crime, Drama",
+        "Year": "1984",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0119217",
+        "Title": "Good Will Hunting",
+        "Genre": "Drama, Romance",
+        "Year": "1998",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0180093",
+        "Title": "Requiem for a Dream",
+        "Genre": "Drama",
+        "Year": "2000",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt5311514",
+        "Title": "Your Name.",
+        "Genre": "Animation, Drama, Fantasy",
+        "Year": "2016",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0435761",
+        "Title": "Toy Story 3",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2010",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0045152",
+        "Title": "Singin' in the Rain",
+        "Genre": "Comedy, Musical, Romance",
+        "Year": "1952",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt1187043",
+        "Title": "3 Idiots",
+        "Genre": "Comedy, Drama",
+        "Year": "2009",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0086190",
+        "Title": "Star Wars: Episode VI - Return of the Jedi",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "1983",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0057565",
+        "Title": "High and Low",
+        "Genre": "Crime, Drama, Mystery",
+        "Year": "1963",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0338013",
+        "Title": "Eternal Sunshine of the Spotless Mind",
+        "Genre": "Drama, Romance, Sci-Fi",
+        "Year": "2004",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0062622",
+        "Title": "2001: A Space Odyssey",
+        "Genre": "Adventure, Sci-Fi",
+        "Year": "1968",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt8267604",
+        "Title": "Capernaum",
+        "Genre": "Drama",
+        "Year": "2018",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0033467",
+        "Title": "Citizen Kane",
+        "Genre": "Drama, Mystery",
+        "Year": "1941",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0056172",
+        "Title": "Lawrence of Arabia",
+        "Genre": "Adventure, Biography, Drama",
+        "Year": "1962",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0053125",
+        "Title": "North by Northwest",
+        "Genre": "Adventure, Drama, Mystery",
+        "Year": "1959",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0052357",
+        "Title": "Vertigo",
+        "Genre": "Mystery, Romance, Thriller",
+        "Year": "1958",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt15474916",
+        "Title": "Smile",
+        "Genre": "Horror, Mystery, Thriller",
+        "Year": "2022",
+        "Rating": "6.5"
+    },
+    {
+        "IMDB Id": "tt0093058",
+        "Title": "Full Metal Jacket",
+        "Genre": "Drama, War",
+        "Year": "1987",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0082096",
+        "Title": "Das Boot",
+        "Genre": "Drama, War",
+        "Year": "1981",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt0066921",
+        "Title": "A Clockwork Orange",
+        "Genre": "Crime, Sci-Fi",
+        "Year": "1971",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0036775",
+        "Title": "Double Indemnity",
+        "Genre": "Crime, Drama, Film-Noir",
+        "Year": "1944",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0053604",
+        "Title": "The Apartment",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "1960",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0056592",
+        "Title": "To Kill a Mockingbird",
+        "Genre": "Crime, Drama",
+        "Year": "1962",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0070735",
+        "Title": "The Sting",
+        "Genre": "Comedy, Crime, Drama",
+        "Year": "1973",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0035446",
+        "Title": "To Be or Not to Be",
+        "Genre": "Comedy, Romance, War",
+        "Year": "1942",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0075314",
+        "Title": "Taxi Driver",
+        "Genre": "Crime, Drama",
+        "Year": "1976",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0057115",
+        "Title": "The Great Escape",
+        "Genre": "Adventure, Drama, Thriller",
+        "Year": "1963",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0119488",
+        "Title": "L.A. Confidential",
+        "Genre": "Crime, Drama, Mystery",
+        "Year": "1997",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0113277",
+        "Title": "Heat",
+        "Genre": "Action, Crime, Drama",
+        "Year": "1995",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0208092",
+        "Title": "Snatch",
+        "Genre": "Comedy, Crime",
+        "Year": "2001",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0095016",
+        "Title": "Die Hard",
+        "Genre": "Action, Thriller",
+        "Year": "1988",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0086250",
+        "Title": "Scarface",
+        "Genre": "Crime, Drama",
+        "Year": "1983",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt1049413",
+        "Title": "Up",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2009",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt0017136",
+        "Title": "Metropolis",
+        "Genre": "Drama, Sci-Fi",
+        "Year": "1927",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0097576",
+        "Title": "Indiana Jones and the Last Crusade",
+        "Genre": "Action, Adventure",
+        "Year": "1989",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt8503618",
+        "Title": "Hamilton",
+        "Genre": "Biography, Drama, History",
+        "Year": "2020",
+        "Rating": "8.3"
+    },
+    {
+        "IMDB Id": "tt8579674",
+        "Title": "1917",
+        "Genre": "Action, Drama, War",
+        "Year": "2020",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0363163",
+        "Title": "Downfall",
+        "Genre": "Biography, Drama, History",
+        "Year": "2004",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0372784",
+        "Title": "Batman Begins",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2005",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0053291",
+        "Title": "Some Like It Hot",
+        "Genre": "Comedy, Music, Romance",
+        "Year": "1959",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0993846",
+        "Title": "The Wolf of Wall Street",
+        "Genre": "Biography, Comedy, Crime",
+        "Year": "2013",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0120382",
+        "Title": "The Truman Show",
+        "Genre": "Comedy, Drama",
+        "Year": "1998",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0112641",
+        "Title": "Casino",
+        "Genre": "Crime, Drama",
+        "Year": "1995",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt1130884",
+        "Title": "Shutter Island",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "2010",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0071315",
+        "Title": "Chinatown",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "1974",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0107290",
+        "Title": "Jurassic Park",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "1993",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0477348",
+        "Title": "No Country for Old Men",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "2007",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0469494",
+        "Title": "There Will Be Blood",
+        "Genre": "Drama",
+        "Year": "2007",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0089881",
+        "Title": "Ran",
+        "Genre": "Action, Drama, War",
+        "Year": "1985",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0457430",
+        "Title": "Pan's Labyrinth",
+        "Genre": "Drama, Fantasy, War",
+        "Year": "2007",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0167404",
+        "Title": "The Sixth Sense",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "1999",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0084787",
+        "Title": "The Thing",
+        "Genre": "Horror, Mystery, Sci-Fi",
+        "Year": "1982",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0050976",
+        "Title": "The Seventh Seal",
+        "Genre": "Drama, Fantasy",
+        "Year": "1957",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt2096673",
+        "Title": "Inside Out",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2015",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0117951",
+        "Title": "Trainspotting",
+        "Genre": "Crime, Drama",
+        "Year": "1996",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0266697",
+        "Title": "Kill Bill: Vol. 1",
+        "Genre": "Action, Crime, Thriller",
+        "Year": "2003",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt2278388",
+        "Title": "The Grand Budapest Hotel",
+        "Genre": "Comedy, Drama",
+        "Year": "2014",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0266543",
+        "Title": "Finding Nemo",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2003",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0031381",
+        "Title": "Gone with the Wind",
+        "Genre": "Drama, Romance, War",
+        "Year": "1939",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0116282",
+        "Title": "Fargo",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "1996",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt2267998",
+        "Title": "Gone Girl",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "2014",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0434409",
+        "Title": "V for Vendetta",
+        "Genre": "Action, Drama, Sci-Fi",
+        "Year": "2006",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0264464",
+        "Title": "Catch Me If You Can",
+        "Genre": "Biography, Crime, Drama",
+        "Year": "2002",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0118715",
+        "Title": "The Big Lebowski",
+        "Genre": "Comedy, Crime",
+        "Year": "1998",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0347149",
+        "Title": "Howl's Moving Castle",
+        "Genre": "Animation, Adventure, Family",
+        "Year": "2004",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt1392190",
+        "Title": "Mad Max: Fury Road",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2015",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0126029",
+        "Title": "Shrek",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2001",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt1470827",
+        "Title": "Monsters",
+        "Genre": "Adventure, Drama, Romance",
+        "Year": "2010",
+        "Rating": "6.3"
+    },
+    {
+        "IMDB Id": "tt0198781",
+        "Title": "Monsters, Inc.",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2001",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt1205489",
+        "Title": "Gran Torino",
+        "Genre": "Drama",
+        "Year": "2008",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0032138",
+        "Title": "The Wizard of Oz",
+        "Genre": "Adventure, Family, Fantasy",
+        "Year": "1939",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt1201607",
+        "Title": "Harry Potter and the Deathly Hallows: Part 2",
+        "Genre": "Adventure, Family, Fantasy",
+        "Year": "2011",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0083658",
+        "Title": "Blade Runner",
+        "Genre": "Action, Drama, Sci-Fi",
+        "Year": "1982",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0395169",
+        "Title": "Hotel Rwanda",
+        "Genre": "Biography, Drama, History",
+        "Year": "2004",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0075148",
+        "Title": "Rocky",
+        "Genre": "Drama, Sport",
+        "Year": "1976",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0091763",
+        "Title": "Platoon",
+        "Genre": "Drama, War",
+        "Year": "1986",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt1895587",
+        "Title": "Spotlight",
+        "Genre": "Biography, Crime, Drama",
+        "Year": "2015",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt1979320",
+        "Title": "Rush",
+        "Genre": "Biography, Drama, Sport",
+        "Year": "2013",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt3315342",
+        "Title": "Logan",
+        "Genre": "Action, Drama, Sci-Fi",
+        "Year": "2017",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0088247",
+        "Title": "The Terminator",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "1984",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0092005",
+        "Title": "Stand by Me",
+        "Genre": "Adventure, Comedy, Drama",
+        "Year": "1986",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt1453405",
+        "Title": "Monsters University",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2013",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt0107048",
+        "Title": "Groundhog Day",
+        "Genre": "Comedy, Drama, Fantasy",
+        "Year": "1993",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0080684",
+        "Title": "Star Wars: Episode V - The Empire Strikes Back",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "1980",
+        "Rating": "8.7"
+    },
+    {
+        "IMDB Id": "tt0074958",
+        "Title": "Network",
+        "Genre": "Drama",
+        "Year": "1976",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0073195",
+        "Title": "Jaws",
+        "Genre": "Adventure, Horror, Thriller",
+        "Year": "1975",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0070047",
+        "Title": "The Exorcist",
+        "Genre": "Horror",
+        "Year": "1973",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0052618",
+        "Title": "Ben-Hur",
+        "Genre": "Adventure, Drama",
+        "Year": "1959",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0325980",
+        "Title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "2003",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0317705",
+        "Title": "The Incredibles",
+        "Genre": "Animation, Action, Adventure",
+        "Year": "2004",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0077416",
+        "Title": "The Deer Hunter",
+        "Genre": "Drama, War",
+        "Year": "1979",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0382932",
+        "Title": "Ratatouille",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2007",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0096283",
+        "Title": "My Neighbor Totoro",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "1988",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0758758",
+        "Title": "Into the Wild",
+        "Genre": "Adventure, Biography, Drama",
+        "Year": "2007",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0112471",
+        "Title": "Before Sunrise",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "1995",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt0072684",
+        "Title": "Barry Lyndon",
+        "Genre": "Adventure, Drama, War",
+        "Year": "1975",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt1010048",
+        "Title": "Slumdog Millionaire",
+        "Genre": "Crime, Drama, Romance",
+        "Year": "2008",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0268978",
+        "Title": "A Beautiful Mind",
+        "Genre": "Biography, Drama, Mystery",
+        "Year": "2002",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt0258463",
+        "Title": "The Bourne Identity",
+        "Genre": "Action, Mystery, Thriller",
+        "Year": "2002",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt0947798",
+        "Title": "Black Swan",
+        "Genre": "Drama, Thriller",
+        "Year": "2010",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt1504320",
+        "Title": "The King's Speech",
+        "Genre": "Biography, Drama, History",
+        "Year": "2010",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt2543164",
+        "Title": "Arrival",
+        "Genre": "Drama, Mystery, Sci-Fi",
+        "Year": "2016",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt2015381",
+        "Title": "Guardians of the Galaxy",
+        "Genre": "Action, Adventure, Comedy",
+        "Year": "2014",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0087182",
+        "Title": "Dune",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "1984",
+        "Rating": "6.3"
+    },
+    {
+        "IMDB Id": "tt15239678",
+        "Title": "Dune: Part Two",
+        "Genre": "Action, Adventure, Drama",
+        "Year": "2024",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt1431045",
+        "Title": "Deadpool",
+        "Genre": "Action, Comedy, Sci-Fi",
+        "Year": "2016",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt3659388",
+        "Title": "The Martian",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Year": "2015",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt1454468",
+        "Title": "Gravity",
+        "Genre": "Drama, Sci-Fi, Thriller",
+        "Year": "2013",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt0499549",
+        "Title": "Avatar",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "2009",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt0120338",
+        "Title": "Titanic",
+        "Genre": "Drama, Romance",
+        "Year": "1997",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0371746",
+        "Title": "Iron Man",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2008",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt1074638",
+        "Title": "Skyfall",
+        "Genre": "Action, Adventure, Thriller",
+        "Year": "2012",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt0381061",
+        "Title": "Casino Royale",
+        "Genre": "Action, Adventure, Thriller",
+        "Year": "2006",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt1392170",
+        "Title": "The Hunger Games",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2012",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt0418279",
+        "Title": "Transformers",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2007",
+        "Rating": "7.1"
+    },
+    {
+        "IMDB Id": "tt1825683",
+        "Title": "Black Panther",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2018",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt3501632",
+        "Title": "Thor: Ragnarok",
+        "Genre": "Action, Adventure, Comedy",
+        "Year": "2017",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt2250912",
+        "Title": "Spider-Man: Homecoming",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2017",
+        "Rating": "7.4"
+    },
+    {
+        "IMDB Id": "tt0451279",
+        "Title": "Wonder Woman",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "2017",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt0770828",
+        "Title": "Man of Steel",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2013",
+        "Rating": "7.1"
+    },
+    {
+        "IMDB Id": "tt1663202",
+        "Title": "The Revenant",
+        "Genre": "Action, Drama, Western",
+        "Year": "2016",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt3460252",
+        "Title": "The Hateful Eight",
+        "Genre": "Crime, Drama, Mystery",
+        "Year": "2015",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt0378194",
+        "Title": "Kill Bill: Vol. 2",
+        "Genre": "Action, Crime, Thriller",
+        "Year": "2004",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0119396",
+        "Title": "Jackie Brown",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "1997",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt1302006",
+        "Title": "The Irishman",
+        "Genre": "Biography, Crime, Drama",
+        "Year": "2019",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt0217505",
+        "Title": "Gangs of New York",
+        "Genre": "Crime, Drama",
+        "Year": "2002",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt0338751",
+        "Title": "The Aviator",
+        "Genre": "Biography, Drama",
+        "Year": "2004",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt5013056",
+        "Title": "Dunkirk",
+        "Genre": "Action, Drama, History",
+        "Year": "2017",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt6723592",
+        "Title": "Tenet",
+        "Genre": "Action, Sci-Fi, Thriller",
+        "Year": "2020",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt0278504",
+        "Title": "Insomnia",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "2002",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt0234215",
+        "Title": "The Matrix Reloaded",
+        "Genre": "Action, Sci-Fi",
+        "Year": "2003",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt0111257",
+        "Title": "Speed",
+        "Genre": "Action, Adventure, Thriller",
+        "Year": "1994",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt2911666",
+        "Title": "John Wick",
+        "Genre": "Action, Crime, Thriller",
+        "Year": "2014",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt0455944",
+        "Title": "The Equalizer",
+        "Genre": "Action, Crime, Thriller",
+        "Year": "2014",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt0139654",
+        "Title": "Training Day",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "2001",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt0328107",
+        "Title": "Man on Fire",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2004",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt1907668",
+        "Title": "Flight",
+        "Genre": "Drama, Thriller",
+        "Year": "2012",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt1037705",
+        "Title": "The Book of Eli",
+        "Genre": "Action, Adventure, Drama",
+        "Year": "2010",
+        "Rating": "6.8"
+    },
+    {
+        "IMDB Id": "tt1446714",
+        "Title": "Prometheus",
+        "Genre": "Adventure, Sci-Fi",
+        "Year": "2012",
+        "Rating": "7.0"
+    },
+    {
+        "IMDB Id": "tt0265086",
+        "Title": "Black Hawk Down",
+        "Genre": "Action, Drama, History",
+        "Year": "2002",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt0765429",
+        "Title": "American Gangster",
+        "Genre": "Biography, Crime, Drama",
+        "Year": "2007",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt6304046",
+        "Title": "Thelma",
+        "Genre": "Drama, Fantasy, Horror",
+        "Year": "2017",
+        "Rating": "6.9"
+    },
+    {
+        "IMDB Id": "tt0320661",
+        "Title": "Kingdom of Heaven",
+        "Genre": "Action, Adventure, Drama",
+        "Year": "2005",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt0325710",
+        "Title": "The Last Samurai",
+        "Genre": "Action, Drama",
+        "Year": "2003",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt4912910",
+        "Title": "Mission: Impossible - Fallout",
+        "Genre": "Action, Adventure, Thriller",
+        "Year": "2018",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt0092099",
+        "Title": "Top Gun",
+        "Genre": "Action, Drama",
+        "Year": "1986",
+        "Rating": "7.0"
+    },
+    {
+        "IMDB Id": "tt0104257",
+        "Title": "A Few Good Men",
+        "Genre": "Drama, Thriller",
+        "Year": "1992",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt0116695",
+        "Title": "Jerry Maguire",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "1996",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt0095953",
+        "Title": "Rain Man",
+        "Genre": "Drama",
+        "Year": "1988",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt0096969",
+        "Title": "Born on the Fourth of July",
+        "Genre": "Biography, Drama, War",
+        "Year": "1989",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt0088939",
+        "Title": "The Color Purple",
+        "Genre": "Drama",
+        "Year": "1985",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt0083866",
+        "Title": "E.T. the Extra-Terrestrial",
+        "Genre": "Adventure, Family, Sci-Fi",
+        "Year": "1982",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt0087469",
+        "Title": "Indiana Jones and the Temple of Doom",
+        "Genre": "Action, Adventure",
+        "Year": "1984",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt0119567",
+        "Title": "The Lost World: Jurassic Park",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "1997",
+        "Rating": "6.6"
+    },
+    {
+        "IMDB Id": "tt0362227",
+        "Title": "The Terminal",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "2004",
+        "Rating": "7.4"
+    },
+    {
+        "IMDB Id": "tt0407304",
+        "Title": "War of the Worlds",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2005",
+        "Rating": "6.6"
+    },
+    {
+        "IMDB Id": "tt0181689",
+        "Title": "Minority Report",
+        "Genre": "Action, Crime, Mystery",
+        "Year": "2002",
+        "Rating": "7.6"
+    },
+    {
+        "IMDB Id": "tt0212720",
+        "Title": "A.I. Artificial Intelligence",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "Year": "2001",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt0443272",
+        "Title": "Lincoln",
+        "Genre": "Biography, Drama, History",
+        "Year": "2012",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt3682448",
+        "Title": "Bridge of Spies",
+        "Genre": "Drama, History, Thriller",
+        "Year": "2015",
+        "Rating": "7.6"
+    },
+    {
+        "IMDB Id": "tt6294822",
+        "Title": "The Post",
+        "Genre": "Biography, Drama, History",
+        "Year": "2018",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt0055614",
+        "Title": "West Side Story",
+        "Genre": "Crime, Drama, Musical",
+        "Year": "1961",
+        "Rating": "7.6"
+    },
+    {
+        "IMDB Id": "tt14208870",
+        "Title": "The Fabelmans",
+        "Genre": "Drama",
+        "Year": "2022",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt0075860",
+        "Title": "Close Encounters of the Third Kind",
+        "Genre": "Drama, Sci-Fi",
+        "Year": "1977",
+        "Rating": "7.6"
+    },
+    {
+        "IMDB Id": "tt0102057",
+        "Title": "Hook",
+        "Genre": "Adventure, Comedy, Family",
+        "Year": "1991",
+        "Rating": "6.8"
+    },
+    {
+        "IMDB Id": "tt0118607",
+        "Title": "Amistad",
+        "Genre": "Biography, Drama, History",
+        "Year": "1997",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt0408306",
+        "Title": "Munich",
+        "Genre": "Drama, History, Thriller",
+        "Year": "2005",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt1568911",
+        "Title": "War Horse",
+        "Genre": "Adventure, Drama, War",
+        "Year": "2011",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt3397884",
+        "Title": "Sicario",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2015",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt1392214",
+        "Title": "Prisoners",
+        "Genre": "Crime, Drama, Mystery",
+        "Year": "2013",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt2316411",
+        "Title": "Enemy",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "2013",
+        "Rating": "6.9"
+    },
+    {
+        "IMDB Id": "tt1194238",
+        "Title": "Polytechnique",
+        "Genre": "Crime, Drama, History",
+        "Year": "2009",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt2042568",
+        "Title": "Inside Llewyn Davis",
+        "Genre": "Drama, Music",
+        "Year": "2013",
+        "Rating": "7.4"
+    },
+    {
+        "IMDB Id": "tt1782453",
+        "Title": "Hail",
+        "Genre": "Drama",
+        "Year": "2011",
+        "Rating": "6.0"
+    },
+    {
+        "IMDB Id": "tt0475290",
+        "Title": "Hail, Caesar!",
+        "Genre": "Comedy, Drama, Mystery",
+        "Year": "2016",
+        "Rating": "6.3"
+    },
+    {
+        "IMDB Id": "tt6412452",
+        "Title": "The Ballad of Buster Scruggs",
+        "Genre": "Comedy, Drama, Musical",
+        "Year": "2018",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt10095582",
+        "Title": "The Tragedy of Macbeth",
+        "Genre": "Drama, Fantasy, Mystery",
+        "Year": "2021",
+        "Rating": "7.1"
+    },
+    {
+        "IMDB Id": "tt0780504",
+        "Title": "Drive",
+        "Genre": "Action, Drama",
+        "Year": "2011",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt1602613",
+        "Title": "Only God Forgives",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2013",
+        "Rating": "5.7"
+    },
+    {
+        "IMDB Id": "tt1974419",
+        "Title": "The Neon Demon",
+        "Genre": "Horror, Thriller",
+        "Year": "2016",
+        "Rating": "6.1"
+    },
+    {
+        "IMDB Id": "tt1172570",
+        "Title": "Bronson",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2008",
+        "Rating": "7.0"
+    },
+    {
+        "IMDB Id": "tt0862467",
+        "Title": "Valhalla Rising",
+        "Genre": "Adventure, Drama, Fantasy",
+        "Year": "2009",
+        "Rating": "6.0"
+    },
+    {
+        "IMDB Id": "tt14039582",
+        "Title": "Drive My Car",
+        "Genre": "Drama",
+        "Year": "2021",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt7282468",
+        "Title": "Burning",
+        "Genre": "Drama, Mystery, Thriller",
+        "Year": "2018",
+        "Rating": "7.4"
+    },
+    {
+        "IMDB Id": "tt4016934",
+        "Title": "The Handmaiden",
+        "Genre": "Drama, Romance, Thriller",
+        "Year": "2016",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt6710474",
+        "Title": "Everything Everywhere All at Once",
+        "Genre": "Action, Adventure, Comedy",
+        "Year": "2022",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt15398776",
+        "Title": "Oppenheimer",
+        "Genre": "Biography, Drama, History",
+        "Year": "2023",
+        "Rating": "8.2"
+    },
+    {
+        "IMDB Id": "tt1517268",
+        "Title": "Barbie",
+        "Genre": "Adventure, Comedy, Fantasy",
+        "Year": "2023",
+        "Rating": "6.8"
+    },
+    {
+        "IMDB Id": "tt9362722",
+        "Title": "Spider-Man: Across the Spider-Verse",
+        "Genre": "Animation, Action, Adventure",
+        "Year": "2023",
+        "Rating": "8.5"
+    },
+    {
+        "IMDB Id": "tt8946378",
+        "Title": "Knives Out",
+        "Genre": "Comedy, Crime, Drama",
+        "Year": "2019",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt11564570",
+        "Title": "Glass Onion",
+        "Genre": "Comedy, Crime, Drama",
+        "Year": "2022",
+        "Rating": "7.1"
+    },
+    {
+        "IMDB Id": "tt10640346",
+        "Title": "Babylon",
+        "Genre": "Comedy, Drama",
+        "Year": "2022",
+        "Rating": "7.1"
+    },
+    {
+        "IMDB Id": "tt1877830",
+        "Title": "The Batman",
+        "Genre": "Action, Crime, Drama",
+        "Year": "2022",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt9419884",
+        "Title": "Doctor Strange in the Multiverse of Madness",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "2022",
+        "Rating": "6.9"
+    },
+    {
+        "IMDB Id": "tt1630029",
+        "Title": "Avatar: The Way of Water",
+        "Genre": "Animation, Action, Adventure",
+        "Year": "2022",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt6791350",
+        "Title": "Guardians of the Galaxy Vol. 3",
+        "Genre": "Action, Adventure, Comedy",
+        "Year": "2023",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt10872600",
+        "Title": "Spider-Man: No Way Home",
+        "Genre": "Action, Adventure, Fantasy",
+        "Year": "2021",
+        "Rating": "8.1"
+    },
+    {
+        "IMDB Id": "tt11813216",
+        "Title": "The Banshees of Inisherin",
+        "Genre": "Comedy, Drama",
+        "Year": "2022",
+        "Rating": "7.6"
+    },
+    {
+        "IMDB Id": "tt29268110",
+        "Title": "Smile 2",
+        "Genre": "Horror, Mystery, Thriller",
+        "Year": "2024",
+        "Rating": "6.7"
+    },
+    {
+        "IMDB Id": "tt3704428",
+        "Title": "Elvis",
+        "Genre": "Biography, Drama, Music",
+        "Year": "2022",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt12593682",
+        "Title": "Bullet Train",
+        "Genre": "Action, Comedy, Thriller",
+        "Year": "2022",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt10954984",
+        "Title": "Nope",
+        "Genre": "Horror, Mystery, Sci-Fi",
+        "Year": "2022",
+        "Rating": "6.8"
+    },
+    {
+        "IMDB Id": "tt13833688",
+        "Title": "The Whale",
+        "Genre": "Drama",
+        "Year": "2022",
+        "Rating": "7.6"
+    },
+    {
+        "IMDB Id": "tt1016150",
+        "Title": "All Quiet on the Western Front",
+        "Genre": "Drama, History, War",
+        "Year": "2022",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt8178634",
+        "Title": "RRR",
+        "Genre": "Action, Adventure, Drama",
+        "Year": "2022",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt13238346",
+        "Title": "Past Lives",
+        "Genre": "Drama, Romance",
+        "Year": "2023",
+        "Rating": "7.8"
+    },
+    {
+        "IMDB Id": "tt17009710",
+        "Title": "Anatomy of a Fall",
+        "Genre": "Crime, Drama, Mystery",
+        "Year": "2024",
+        "Rating": "7.6"
+    },
+    {
+        "IMDB Id": "tt7160372",
+        "Title": "The Zone of Interest",
+        "Genre": "Drama, History, War",
+        "Year": "2023",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt14230458",
+        "Title": "Poor Things",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "2023",
+        "Rating": "7.7"
+    },
+    {
+        "IMDB Id": "tt23561236",
+        "Title": "American Fiction",
+        "Genre": "Comedy, Drama",
+        "Year": "2023",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt14849194",
+        "Title": "The Holdovers",
+        "Genre": "Comedy, Drama",
+        "Year": "2023",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt16426418",
+        "Title": "Challengers",
+        "Genre": "Comedy, Drama, Romance",
+        "Year": "2024",
+        "Rating": "7.0"
+    },
+    {
+        "IMDB Id": "tt17279496",
+        "Title": "Civil War",
+        "Genre": "Action, Thriller, War",
+        "Year": "2024",
+        "Rating": "7.0"
+    },
+    {
+        "IMDB Id": "tt12037194",
+        "Title": "Furiosa: A Mad Max Saga",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Year": "2024",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt22022452",
+        "Title": "Inside Out 2",
+        "Genre": "Animation, Adventure, Comedy",
+        "Year": "2024",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt1431045",
+        "Title": "Deadpool",
+        "Genre": "Action, Comedy, Sci-Fi",
+        "Year": "2016",
+        "Rating": "8.0"
+    },
+    {
+        "IMDB Id": "tt12584954",
+        "Title": "Twisters",
+        "Genre": "Action, Adventure, Thriller",
+        "Year": "2024",
+        "Rating": "6.5"
+    },
+    {
+        "IMDB Id": "tt18412256",
+        "Title": "Alien: Romulus",
+        "Genre": "Horror, Sci-Fi, Thriller",
+        "Year": "2024",
+        "Rating": "7.1"
+    },
+    {
+        "IMDB Id": "tt15239678",
+        "Title": "Dune: Part Two",
+        "Genre": "Action, Adventure, Drama",
+        "Year": "2024",
+        "Rating": "8.4"
+    },
+    {
+        "IMDB Id": "tt2049403",
+        "Title": "Beetlejuice Beetlejuice",
+        "Genre": "Comedy, Fantasy, Horror",
+        "Year": "2024",
+        "Rating": "6.6"
+    },
+    {
+        "IMDB Id": "tt9218128",
+        "Title": "Gladiator II",
+        "Genre": "Action, Adventure, Drama",
+        "Year": "2024",
+        "Rating": "6.4"
+    },
+    {
+        "IMDB Id": "tt1262426",
+        "Title": "Wicked",
+        "Genre": "Fantasy, Musical, Romance",
+        "Year": "2024",
+        "Rating": "7.4"
+    },
+    {
+        "IMDB Id": "tt5040012",
+        "Title": "Nosferatu",
+        "Genre": "Fantasy, Horror, Mystery",
+        "Year": "2024",
+        "Rating": "7.1"
+    },
+    {
+        "IMDB Id": "tt0446029",
+        "Title": "Scott Pilgrim vs. the World",
+        "Genre": "Action, Comedy, Fantasy",
+        "Year": "2010",
+        "Rating": "7.5"
+    },
+    {
+        "IMDB Id": "tt26657236",
+        "Title": "Backrooms",
+        "Genre": "Horror, Sci-Fi, Thriller",
+        "Year": "2026",
+        "Rating": "6.8"
+    },
+    {
+        "IMDB Id": "tt37287335",
+        "Title": "Obsession",
+        "Genre": "Horror, Romance, Thriller",
+        "Year": "2026",
+        "Rating": "7.9"
+    },
+    {
+        "IMDB Id": "tt3235888",
+        "Title": "It Follows",
+        "Genre": "Horror, Mystery, Thriller",
+        "Year": "2014",
+        "Rating": "6.8"
+    },
+    {
+        "IMDB Id": "tt1396484",
+        "Title": "It",
+        "Genre": "Horror",
+        "Year": "2017",
+        "Rating": "7.3"
+    },
+    {
+        "IMDB Id": "tt7349950",
+        "Title": "It: Chapter Two",
+        "Genre": "Drama, Fantasy, Horror",
+        "Year": "2019",
+        "Rating": "6.5"
+    },
+    {
+        "IMDB Id": "tt7144666",
+        "Title": "The Black Phone",
+        "Genre": "Horror, Mystery, Thriller",
+        "Year": "2022",
+        "Rating": "6.9"
+    },
+    {
+        "IMDB Id": "tt8036976",
+        "Title": "Send Help",
+        "Genre": "Adventure, Horror, Thriller",
+        "Year": "2026",
+        "Rating": "6.9"
+    },
+    {
+        "IMDB Id": "tt2866360",
+        "Title": "Coherence",
+        "Genre": "Mystery, Sci-Fi, Thriller",
+        "Year": "2013",
+        "Rating": "7.2"
+    },
+    {
+        "IMDB Id": "tt2397535",
+        "Title": "Predestination",
+        "Genre": "Action, Drama, Sci-Fi",
+        "Year": "2014",
+        "Rating": "7.4"
+    },
+    {
+        "IMDB Id": "tt2872718",
+        "Title": "Nightcrawler",
+        "Genre": "Crime, Drama, Thriller",
+        "Year": "2014",
+        "Rating": "7.8"
+    }
+]

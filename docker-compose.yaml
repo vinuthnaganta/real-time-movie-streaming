@@ -1,0 +1,76 @@
+# using kafka, postgresql, grafana
+services:
+
+  kafka:
+    image: apache/kafka:latest
+    container_name: kafka
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_NODE_ID: ${KAFKA_NODE_ID}
+      KAFKA_PROCESS_ROLES: ${KAFKA_PROCESS_ROLES}
+      # maps id 1 to container address
+      KAFKA_CONTROLLER_QUORUM_VOTERS: ${KAFKA-CONTROLLER_QUORUM_VOTERS}
+      KAFKA_CLUSTER_ID: ${CLUSTER_ID}
+
+      # define internal ports
+      KAFKA_LISTENERS: 'PLAINTEXT://0.0.0.0:29092,CONTROLLER://0.0.0.0:29093,PLAINTEXT_HOST://0.0.0.0:9092'
+      # address kafka passes to clients (other docker containers and apps)
+      KAFKA_ADVERTISED_LISTENERS: 'PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092'
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: 'CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT'
+      KAFKA_INTER_BROKER_LISTENER_NAME: 'PLAINTEXT'
+      KAFKA_CONTROLLER_LISTENER_NAMES: 'CONTROLLER'
+      
+      # tracks consumer progress
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: ${KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR}
+      KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
+      KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: ${KAFKA_TRANSACTION_STATE_LOG_MIN_ISR}
+      KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR: ${KAFKA_TRANSACTION_STATE_LOG_REPLICATION_FACTOR}
+      KAFKA_LOG_DIRS: '/tmp/kraft-combined-logs'
+    networks:
+      - app-network
+
+  postgresql:
+    image: postgres:latest
+    container_name: postgres_db
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: myUserName
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: movie_analytics
+    volumes:
+      - pgdata:/var/lib/postgresql
+    networks:
+      - app-network
+  
+  adminer: # for web gui to see db in browser?
+    image: adminer
+    restart: always
+    ports: 
+      - "8083:8080"
+    depends_on:
+      - postgresql
+    networks:
+      - app-network
+  
+  grafana:
+    image: grafana/grafana-enterprise
+    container_name: grafana
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana_data:/var/lib/grafana
+    networks:
+      - app-network
+
+volumes:
+  pgdata:
+  grafana_data:
+
+networks:
+  app-network:
+    driver: bridge
+  
