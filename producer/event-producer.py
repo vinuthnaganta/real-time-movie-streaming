@@ -28,7 +28,7 @@ def is_spike():
 def simulate_spike():
     spike_time = 30
     start = time.time()
-
+    print("Simulating spike")
 
 def generate_event():
     movie = random.choice(MOVIES)
