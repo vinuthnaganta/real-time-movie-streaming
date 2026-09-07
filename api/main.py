@@ -21,6 +21,10 @@ class MovieEvent(BaseModel):
     event_type: str
     timestamp: datetime.datetime
 
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to my FastAPI application!"}
+
 @app.get("/health")
 async def health():
     return {"status": "ok"}
