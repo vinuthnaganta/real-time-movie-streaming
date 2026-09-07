@@ -1,5 +1,4 @@
 import json
-import threading
 import time
 import uuid
 from datetime import datetime
@@ -16,23 +15,28 @@ MOVIES_FILE = Path(__file__).parent / "movies.json"
 with open(MOVIES_FILE, "r", encoding="utf-8") as file:
     MOVIES = json.load(file)
 
-# control traffic level
 def get_events_per_sec(spike=False):
     if spike:
         return random.randint(5, 10)
     return random.randint(1, 3)
 
 def is_spike():
-    return random.random() < 0.10 # 10% chance of entering spike movde
+    # trigger a spike 10% of the time
+    return random.random() < 0.10
 
-def simulate_spike():
-    spike_time = 30
-    start = time.time()
-    print("Simulating spike")
+def choose_movie(spike=False):
+    # during a spike, 70% of the events are the shining
+    if spike and random.random() < 0.70:
+        shining_movies = [
+            movie for movie in MOVIES
+            if movie["Title"] == "The Shining"
+        ]
+        return random.choice(shining_movies)
+    return random.choice(MOVIES)
 
-def generate_event():
-    movie = random.choice(MOVIES)
-    event = {
+def generate_event(spike=False):
+    movie = choose_movie(spike)
+    new_event = {
         "event_id": str(uuid.uuid4()),
         "user_id": str(uuid.uuid4()),
         "movie_id": movie["IMDB Id"],
@@ -42,30 +46,51 @@ def generate_event():
         "event_type": "view",
         "timestamp": str(datetime.now()),
     }
-    return event
+    return new_event
 
-def simulate_event():
-    x = 0
-    while x < 6:
-        fake_event = generate_event()
+def simulate_spike():
+    spike_time = 30
+    start_time = time.time()
+    print("\n----Spike STARTED----\n")
+    while (time.time() - start_time) < spike_time:
+        events_per_sec = get_events_per_sec(spike=True)
         headers = {"Content-Type": "application/json"}
-
-        try:
-            response = requests.post(API_URL, json=fake_event, headers=headers)
-            if response.status_code == 200:
-                print("Event sent successfully")
-                print(response.json())
-            else:
-                print("Event not sent successfully")
-                print(response.status_code)
-        except requests.exceptions.ConnectionError:
-            print("Connection error")
-        time.sleep(random.randint(1, 4))
-        x = x + 1
+        for _ in range(events_per_sec):
+            event = generate_event(spike=True)
+            try:
+                response = requests.post(API_URL, json=event, headers=headers)
+                if response.status_code == 200:
+                    print("Event sent successfully")
+                    print(f"{event['movie_title']}")
+                    print(response.json())
+                else:
+                    print("Event not sent successfully")
+                    print(response.status_code)
+            except requests.exceptions.ConnectionError:
+                print("Connection error")
+            time.sleep(1)
+    print("\n----Spike ENDED----\n")
 
 if __name__ == "__main__":
-    # for i in range(10):
-    #     threading.Thread(target=simulate_event).start()
-    for _ in range(get_events_per_sec()):
-        eevent = generate_event()
-        print(json.dumps(eevent, indent=2))
+    while True:
+        # start a spike occasionally
+        if is_spike():
+            simulate_spike()
+            continue
+        # otherwise, generate normal events
+        events_per_sec = get_events_per_sec(spike=False)
+        for _ in range(events_per_sec):
+            event = generate_event(spike=False)
+            headers = {"Content-Type": "application/json"}
+            try:
+                response = requests.post(API_URL, json=event, headers=headers)
+                if response.status_code == 200:
+                    print("Event sent successfully")
+                    print(f"{event['movie_title']}")
+                    print(response.json())
+                else:
+                    print("Event not sent successfully")
+                    print(response.status_code)
+            except requests.exceptions.ConnectionError:
+                print("Connection error")
+            time.sleep(1)
