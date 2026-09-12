@@ -23,7 +23,7 @@ class MovieEvent(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to my FastAPI application!"}
+    return {"message": "Welcome to my Real Time Movie Streaming Analytics API!"}
 
 @app.get("/health")
 async def health():
