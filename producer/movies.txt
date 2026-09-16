@@ -52,7 +52,6 @@ Avengers: Infinity War
 Witness for the Prosecution
 Spider-Man: Into the Spider-Verse
 Aliens
-Dr. Strangelove
 American Beauty
 The Dark Knight Rises
 Joker
@@ -279,12 +278,12 @@ Challengers
 Civil War
 Furiosa: A Mad Max Saga
 Inside Out 2
-Deadpool & Wolverine
 Twisters
 Alien: Romulus
-Dune: Part Two
+Predator
 Beetlejuice Beetlejuice
 Gladiator II
+Monster House
 Wicked
 Nosferatu
 Scott Pilgrim vs. the World
@@ -298,3 +297,4 @@ Send Help
 Coherence
 Predestination
 Nightcrawler
+Donnie Darko
