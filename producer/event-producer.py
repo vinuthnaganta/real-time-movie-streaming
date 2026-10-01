@@ -37,8 +37,8 @@ def choose_movie(spike=False):
 def generate_event(spike=False):
     movie = choose_movie(spike)
     new_event = {
-        "event_id": str(uuid.uuid4()),
-        "user_id": str(uuid.uuid4()),
+        "event_id": uuid.uuid4(),
+        "user_id": uuid.uuid4(),
         "movie_id": movie["IMDB Id"],
         "movie_title": movie["Title"],
         "genre": movie["Genre"],
