@@ -26,9 +26,9 @@ try:
 
     create_table_movie_events = """
         CREATE TABLE IF NOT EXISTS movie_events (
-            event_id VARCHAR(20) PRIMARY KEY,
+            event_id UUID PRIMARY KEY,
             movie_id VARCHAR(20) NOT NULL REFERENCES movies (movie_id),
-            user_id VARCHAR(20) NOT NULL,
+            user_id UUID NOT NULL,
             event_type VARCHAR(50) NOT NULL,
             timestamp TIMESTAMP NOT NULL
         );"""
