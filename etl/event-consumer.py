@@ -1,14 +1,20 @@
 import json
+import os
+from dotenv import load_dotenv
+import psycopg2
 from datetime import datetime, timedelta
 from pathlib import Path
 
 from confluent_kafka import Consumer, KafkaError
 
-MOVIES_FILE = Path(__file__).parent / "movies.json"
+current_path = Path(__file__).resolve().parent
+
+MOVIES_FILE = current_path.parent / "producer" / "movies.json"
+
 with open(MOVIES_FILE, "r", encoding="utf-8") as file:
     MOVIES = json.load(file)
 
-movie_ids = {movie["movie_id"] for movie in MOVIES}
+movie_ids = {movie["IMDB Id"] for movie in MOVIES}
 
 consumer_config = {
     "bootstrap.servers":"localhost:9092",
@@ -26,6 +32,8 @@ def transform_event(eevent):
     timestamp = datetime.fromisoformat(eevent["timestamp"])
     genre = eevent["genre"].strip().lower()
     return {
+        "event_id": eevent["event_id"],
+        "user_id": eevent["user_id"],
         "movie_id": eevent["movie_id"],
         "movie_title": eevent["movie_title"],
         "genre": genre,
@@ -59,9 +67,38 @@ def process_event(raw_event):
     except UnicodeDecodeError:
         print("Skipped message with invalid UTF-8 characters.")
     except json.JSONDecodeError:
-        print("Skipped malformed JSON message")
+        print("Skipped malformed JSON message.")
     except KeyError as e:
-        print(f"Skipping message due to missing field {e}")
+        print(f"Skipping message due to missing field {e}.")
+
+def load_events_db(ttransformed_event):
+    load_dotenv()
+    connect = psycopg2.connect(
+        database=os.getenv("POSTGRES_DB"),
+        user=os.getenv("POSTGRES_USER"),
+        password=os.getenv("POSTGRES_PASSWORD"),
+        host="localhost")
+
+    connect.autocommit = True
+    cursor = connect.cursor()
+    try:
+        # extract the needed parts from the event
+        # event_id, movie_id, user_id, event_type, timestamp
+        event_id = ttransformed_event.get("event_id")
+        movie_id = ttransformed_event.get("movie_id")
+        user_id = ttransformed_event.get("user_id")
+        event_type = ttransformed_event.get("event_type")
+        timestamp = ttransformed_event.get("timestamp")
+
+        query = """
+            INSERT into movie_events (event_id, movie_id, user_id, event_type, timestamp)
+            VALUES (%s, %s, %s, %s, %s)
+        ;"""
+        cursor.execute(query, (event_id, movie_id, user_id, event_type, timestamp))
+        print(f"Inserted event #{event_id}.")
+    finally:
+        cursor.close()
+        connect.close()
 
 try:
     while True:
@@ -81,6 +118,9 @@ try:
         if valid_event is not None:
             transformed_event = transform_event(valid_event)
             print(transformed_event)
+            # load event into database
+            load_events_db(transformed_event)
+
 except KeyboardInterrupt:
     print("\nStopping consumer")
 finally:
