@@ -6,7 +6,6 @@ from pathlib import Path
 
 current_path = Path(__file__).resolve().parent
 
-# 2. Navigate up to the project root, then down into the data folder
 file_path = current_path.parent / "producer" / "movies.json"
 
 with open(file_path, "r") as file:
