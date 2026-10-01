@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+confluent-kafka
+pydantic
+psycopg2
+python-dotenv
+requests
+dotenv
